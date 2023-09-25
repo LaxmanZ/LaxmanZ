@@ -1,6 +1,7 @@
 # Hi there, 
-I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, a passionate software developer with a love for creating web and mobile applications. I've been coding ever since and have developed numerous real-world projects.
+I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and logical individual with a solid foundation in computer programming seeking an opportunity to leverage technical skills and excellent communication and interpersonal skills in a role at a reputable IT firm. Possessing exceptional teamwork skills and a strong desire to learn, and committed to contributing to the success of the team and delivering quality results.
 
+======
 - 🌱 I'm currently learning new technologies and improving my coding skills.
 - 🔭 I'm constantly working on personal and open-source projects.
 
