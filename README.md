@@ -23,9 +23,9 @@ I've been coding ever since. and I have developed so many real-world projects.
 
 Here are a few of my notable projects:
 
-- [MyPortfolio]((https://myportfolio-2bddc.web.app/): Brief description of project 1.
-- [CartNest](https://amazona.onrender.com/): Brief description of project 2.
-- [FlexFusion](https://gymprojectmugiwara.vercel.app/): Brief description of project 3.
+- [MyPortfolio](https://myportfolio-2bddc.web.app/)
+- [CartNest](https://amazona.onrender.com/)
+- [FlexFusion](https://gymprojectmugiwara.vercel.app/)
 
 ## Get in Touch
 
