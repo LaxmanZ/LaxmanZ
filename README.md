@@ -4,7 +4,7 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, a passionate software de
 - 🌱 I'm currently learning new technologies and improving my coding skills.
 - 🔭 I'm constantly working on personal and open-source projects.
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1;">
     <h2>My Technical Skills</h2>
     <ul>
