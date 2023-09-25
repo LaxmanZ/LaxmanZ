@@ -1,4 +1,6 @@
-# Hi there, I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋 ,I'm a passionate software developer with a love for creating web and mobile applications. My journey in the world of programming started when I wrote my first "Hello World" program in C++, and I've been coding ever since. and I have developed so many real-world projects.
+# Hi there, 
+I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋 ,I'm a passionate software developer with a love for creating web and mobile applications.
+I've been coding ever since. and I have developed so many real-world projects.
 
 
 - 🌱 I'm currently learning new technologies and improving my coding skills.
