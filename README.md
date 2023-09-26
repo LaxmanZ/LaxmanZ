@@ -30,9 +30,9 @@ Here are a few of my notable projects:
   - [FlexFusion](https://gymprojectmugiwara.vercel.app/)
 
  react-native Projects
-  -[FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)
-  -[MyMusicApp](https://github.com/LaxmanZ/MyMusic)
-  -[todo-listApp](https://github.com/LaxmanZ/todo-list-react-native)
+  - [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)
+  - [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
+  - [todo-listApp](https://github.com/LaxmanZ/todo-list-react-native)
 
 ## Get in Touch
 
