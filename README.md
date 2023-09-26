@@ -42,3 +42,7 @@ Here are a few of my notable projects:
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/laxman-bhajantri-b781471a4).
 
 Feel free to explore my GitHub repositories to see more of my work!
+
+Thank You
+
+If Your are looking to hire a react-native/reactjs developer please contact me. laxmanbhajantri547@gmail.com
