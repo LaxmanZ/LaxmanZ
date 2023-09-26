@@ -24,10 +24,15 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
 ## Projects
 
 Here are a few of my notable projects:
+ reactjs Projects
+  - [MyPortfolio](https://myportfolio-2bddc.web.app/)
+  - [CartNest](https://amazona.onrender.com/)
+  - [FlexFusion](https://gymprojectmugiwara.vercel.app/)
 
-- [MyPortfolio](https://myportfolio-2bddc.web.app/)
-- [CartNest](https://amazona.onrender.com/)
-- [FlexFusion](https://gymprojectmugiwara.vercel.app/)
+ react-native Projects
+  -[FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)
+  -[MyMusicApp](https://github.com/LaxmanZ/MyMusic)
+  -[todo-listApp](https://github.com/LaxmanZ/todo-list-react-native)
 
 ## Get in Touch
 
