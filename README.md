@@ -34,6 +34,7 @@ Here are a few of my notable projects:
  
   - [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)
   - [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
+  - [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)
   - [todo-listApp](https://github.com/LaxmanZ/todo-list-react-native)
 
 ## Get in Touch
