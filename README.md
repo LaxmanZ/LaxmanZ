@@ -37,6 +37,11 @@ Here are a few of my notable projects:
   - [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)
   - [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
 
+Nextjs Projects 
+ - [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)
+ - [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js)
+ - [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
+
 ## Get in Touch
 
 - 📧 You can reach me at [laxmanbhajantri547@gmail.com](mailto:laxmanbhajantri547@gmail.com).
