@@ -12,7 +12,7 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
       <li><strong>Coding Language:</strong> C++, Java</li>
       <li><strong>Frontend Development:</strong> ReactJS, JavaScript, HTML, CSS</li>
       <li><strong>Mobile App Development:</strong> React Native</li>
-      <li><strong>Backend Development:</strong> Node.js</li>
+      <li><strong>Backend Development:</strong> Node.js, Firebase Colud Messaging , Firebase-Firestore</li>
     </ul>
   </div>
   <div style="flex: 1;">
