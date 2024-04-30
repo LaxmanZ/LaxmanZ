@@ -10,9 +10,9 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
     <h2>My Technical Skills</h2>
     <ul>
       <li><strong>Coding Language:</strong> C++, Java</li>
-      <li><strong>Frontend Development:</strong> ReactJS, JavaScript, HTML, CSS</li>
+      <li><strong>Frontend Development:</strong> ReactJS, JavaScript, HTML, CSS, NextJS</li>
       <li><strong>Mobile App Development:</strong> React Native</li>
-      <li><strong>Backend Development:</strong> Node.js, Firebase Colud Messaging , Firebase-Firestore</li>
+      <li><strong>Backend Development:</strong> Node.js, Firebase-Firestore,Basic MongoDB</li>
     </ul>
   </div>
   <div style="flex: 1;">
@@ -27,8 +27,13 @@ Here are a few of my notable projects:
 
  reactjs Projects
   - [MyPortfolio](https://myportfolio-2bddc.web.app/)
-  - [CartNest](https://amazona.onrender.com/)
   - [FlexFusion](https://gymprojectmugiwara.vercel.app/)
+  - [CartNest](https://amazona.onrender.com/)
+
+  Nextjs Projects 
+ - [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)
+ - [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js)
+ - [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
 
  react-native Projects
  
@@ -37,10 +42,7 @@ Here are a few of my notable projects:
   - [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)
   - [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
 
-Nextjs Projects 
- - [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)
- - [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js)
- - [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
+
 
 ## Get in Touch
 
