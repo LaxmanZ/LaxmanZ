@@ -25,22 +25,13 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
 
 Here are a few of my notable projects:
 
- reactjs Projects
-  - [MyPortfolio](https://myportfolio-2bddc.web.app/)
-  - [FlexFusion](https://gymprojectmugiwara.vercel.app/)
-  - [CartNest](https://amazona.onrender.com/)
+| ReactJS Projects                           | Next.js Projects                            | React Native Projects                      |
+|--------------------------------------------|---------------------------------------------|--------------------------------------------|
+| [MyPortfolio](https://myportfolio-2bddc.web.app/)   | [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)      | [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)     |
+| [FlexFusion](https://gymprojectmugiwara.vercel.app/) | [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js) | [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native)          |
+| [CartNest](https://amazona.onrender.com/)           | [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js) | [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)                  |
+|                                                |                                             | [MyMusicApp](https://github.com/LaxmanZ/MyMusic)                             |
 
-  Nextjs Projects 
- - [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)
- - [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js)
- - [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
-
- react-native Projects
- 
-  - [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)
-  - [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native)
-  - [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)
-  - [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
 
 
 
