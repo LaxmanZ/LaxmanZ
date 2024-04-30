@@ -25,12 +25,22 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
 
 Here are a few of my notable projects:
 
-| ReactJS Projects                           | Next.js Projects                            | React Native Projects                      |
-|--------------------------------------------|---------------------------------------------|--------------------------------------------|
-| [MyPortfolio](https://myportfolio-2bddc.web.app/)   | [BlogApp](https://github.com/LaxmanZ/blogapp-next-js)      | [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native)     |
-| [FlexFusion](https://gymprojectmugiwara.vercel.app/) | [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js) | [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native)          |
-| [CartNest](https://amazona.onrender.com/)           | [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js) | [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native)                  |
-|                                                |                                             | [MyMusicApp](https://github.com/LaxmanZ/MyMusic)                             |
+### ReactJS Projects
+- [MyPortfolio](https://myportfolio-2bddc.web.app/) &nbsp;&nbsp;&nbsp;&nbsp;
+- [FlexFusion](https://gymprojectmugiwara.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp;
+- [CartNest](https://amazona.onrender.com/)
+
+### Next.js Projects
+- [BlogApp](https://github.com/LaxmanZ/blogapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp;
+- [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp;
+- [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
+
+### React Native Projects
+- [FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp;
+- [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native) &nbsp;&nbsp;&nbsp;&nbsp;
+- [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp;
+- [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
+
 
 
 
