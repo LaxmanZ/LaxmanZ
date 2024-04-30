@@ -18,6 +18,7 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
   <div style="flex: 1;">
     <h2>My GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=LaxmanZ&show_icons=true&theme=dark" alt="Laxman Bhajantri's GitHub Stats">
+    <img src="https://img.shields.io/github/last-commit/LaxmanZ/LaxmanZ?label=total%20contributions%20in%20last%20year">
   </div>
 </div>
 
