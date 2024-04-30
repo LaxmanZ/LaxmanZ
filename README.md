@@ -25,37 +25,17 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
 
 Here are a few of my notable projects:
 
-<div style="display: flex; gap: 40px;">
-  <div>
-    <h3>ReactJS Projects</h3>
-    <ul>
-      <li><a href="https://myportfolio-2bddc.web.app/">MyPortfolio</a></li>
-      <li><a href="https://gymprojectmugiwara.vercel.app/">FlexFusion</a></li>
-      <li><a href="https://amazona.onrender.com/">CartNest</a></li>
-    </ul>
-  </div>
-  <div>
-    <h3>Next.js Projects</h3>
-    <ul>
-      <li><a href="https://github.com/LaxmanZ/blogapp-next-js">BlogApp</a></li>
-      <li><a href="https://github.com/LaxmanZ/travelapp-next-js">TravellerApp</a></li>
-      <li><a href="https://github.com/LaxmanZ/studentlist-next-js">StudentListApp</a></li>
-    </ul>
-  </div>
-  <div>
-    <h3>React Native Projects</h3>
-    <ul>
-      <li><a href="https://github.com/LaxmanZ/FoodRecipeApp-react-native">FoodRecipeApp</a></li>
-      <li><a href="https://github.com/LaxmanZ/laundry-app-react-native">LaundryApp</a></li>
-      <li><a href="https://github.com/LaxmanZ/NewsApp-react-native">NewsApp</a></li>
-      <li><a href="https://github.com/LaxmanZ/MyMusic">MyMusicApp</a></li>
-    </ul>
-  </div>
-</div>
+### ReactJS Projects
 
+[MyPortfolio](https://myportfolio-2bddc.web.app/) &nbsp;&nbsp;&nbsp;&nbsp; [FlexFusion](https://gymprojectmugiwara.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp; [CartNest](https://amazona.onrender.com/)
 
+### Next.js Projects
 
+[BlogApp](https://github.com/LaxmanZ/blogapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp; [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp; [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
 
+### React Native Projects
+
+[FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
 
 
 ## Get in Touch
