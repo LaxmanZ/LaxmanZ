@@ -11,7 +11,7 @@ I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and log
     <ul>
       <li><strong>Coding Language:</strong> C++, Java</li>
       <li><strong>Frontend Development:</strong> ReactJS, JavaScript, HTML, CSS, NextJS</li>
-      <li><strong>Mobile App Development:</strong> React Native</li>
+      <li><strong>Mobile App Development:</strong> React Native, Expo</li>
       <li><strong>Backend Development:</strong> Node.js, Firebase-Firestore,Basic MongoDB</li>
     </ul>
   </div>
