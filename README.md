@@ -81,73 +81,92 @@ I enjoy turning ideas into practical products, building clean and responsive use
 
 Here are some of the projects I've worked on.
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛒 E-Commerce Website
 
 A web-based e-commerce application focused on product browsing, shopping functionality and a responsive user experience.
 
-**Tech:** React, JavaScript, HTML, CSS
+**Tech:** React · JavaScript · HTML · CSS
 
 🔗 [View Repository](https://github.com/LaxmanZ/ecommerce-website)
 
----
+</td>
+
+<td width="50%" valign="top">
 
 ### 📝 Blog Application
 
-A blog application built with Next.js, exploring modern web development concepts and dynamic content.
+A modern blog application built with Next.js, exploring dynamic content and modern web development concepts.
 
-**Tech:** Next.js, React, JavaScript
+**Tech:** Next.js · React · JavaScript
 
 🔗 [View Repository](https://github.com/LaxmanZ/next-blog)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 💪 FlexFusion
 
-A fitness-focused web application built to provide an interactive experience around fitness and workout-related content.
+A fitness-focused web application providing an interactive experience around fitness and workout-related content.
 
-**Tech:** React, JavaScript
+**Tech:** React · JavaScript
 
 🔗 [Live Demo](https://gymprojectmugiwara.vercel.app/)
 
 🔗 [View Repository](https://github.com/LaxmanZ/gymproject)
 
----
+</td>
 
-### 📚 Book E-Commerce Application
+<td width="50%" valign="top">
 
-An e-commerce project focused on browsing and purchasing books through a web-based interface.
+### 📚 Book E-Commerce
 
-**Tech:** React, JavaScript
+An e-commerce application focused on browsing and purchasing books through a web-based interface.
+
+**Tech:** React · JavaScript
 
 🔗 [View Repository](https://github.com/LaxmanZ/book-ecommerce-reactjs)
 
----
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my projects, technical skills and professional profile.
 
-**Tech:** React, JavaScript
+**Tech:** React · JavaScript
 
 🌐 [Visit Portfolio](https://laxman-bhajantri-portfolio.vercel.app/)
 
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 React Native Projects
+
+A collection of mobile applications built with React Native and Expo.
+
+🍳 Food Recipe App
+🧺 Laundry App
+📰 News App
+🎵 Music App
+
+🔗 [Explore Repositories](https://github.com/LaxmanZ?tab=repositories)
+
+</td>
+</tr>
+</table>
+
 ---
-
-## 📱 React Native Projects
-
-I've also worked on mobile applications using React Native and Expo.
-
-Some of my projects include:
-
-- 🍳 Food Recipe App
-- 🧺 Laundry App
-- 📰 News App
-- 🎵 Music App
-
-🔗 [Explore my React Native repositories](https://github.com/LaxmanZ?tab=repositories)
-
----
-
 ## 🔭 Currently Focused On
 
 - Building better web and mobile applications
