@@ -173,25 +173,6 @@ Some of my projects include:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LaxmanZ&show_icons=true&hide_border=true&rank_icon=github" alt="Laxman's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanZ&layout=compact&hide_border=true" alt="Laxman's Top Languages" />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanZ&hide_border=true" alt="Laxman's GitHub Activity Graph" />
-</p>
-
----
 
 ## 📫 Let's Connect
 
