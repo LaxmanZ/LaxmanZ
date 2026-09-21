@@ -1,58 +1,214 @@
-# Hi there, 
-I'm [Laxman Bhajantri](https://github.com/LaxmanZ)👋, Highly organized and logical individual with a solid foundation in computer programming seeking an opportunity to leverage technical skills and excellent communication and interpersonal skills in a role at a reputable IT firm. Possessing exceptional teamwork skills and a strong desire to learn, and committed to contributing to the success of the team and delivering quality results.
+# 👋 Hi, I'm Laxman Bhajantri
 
-======
-- 🌱 I'm currently learning new technologies and improving my coding skills.
-- 🔭 I'm constantly working on personal and open-source projects.
+### Software Engineer | React | React Native | JavaScript
 
-<div style="display: flex; flex-direction: row; align-items: flex-start; justify-content: space-between;">
-  <div style="flex: 1;">
-    <h2>My Technical Skills</h2>
-    <ul>
-      <li><strong>Coding Language:</strong> C++, Java</li>
-      <li><strong>Frontend Development:</strong> ReactJS, JavaScript, HTML, CSS, NextJS</li>
-      <li><strong>Mobile App Development:</strong> React Native, Expo</li>
-      <li><strong>Backend Development:</strong> Node.js, Firebase-Firestore,Basic MongoDB</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <h2>My GitHub Stats</h2>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laxmanz&show_icons=true&locale=en&layout=compact" alt="laxmanz" /></p>
+I'm a Software Engineer passionate about building modern web and mobile applications.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laxmanz&show_icons=true&locale=en" alt="laxmanz" /></p>
-  </div>
-</div>
+I enjoy turning ideas into practical products, building clean and responsive user interfaces, working with APIs and backend services, and continuously improving my engineering skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+💻 I build web and mobile applications  
+⚛️ I work with React and React Native  
+🚀 I enjoy building and deploying real-world projects  
+🧠 I continuously explore new technologies and better engineering practices  
 
-## Projects
+---
 
-Here are a few of my notable projects:
+## 🌐 Connect With Me
 
-### ReactJS Projects
+<p align="left">
+  <a href="https://laxman-bhajantri-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/laxman-bhajantri-b781471a4/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/LaxmanZ" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-[MyPortfolio](https://myportfolio-2bddc.web.app/) &nbsp;&nbsp;&nbsp;&nbsp; [FlexFusion](https://gymprojectmugiwara.vercel.app/) &nbsp;&nbsp;&nbsp;&nbsp; [CartNest](https://amazona.onrender.com/)
+📧 **Email:** [laxmanbhajantri547@gmail.com](mailto:laxmanbhajantri547@gmail.com)
 
-### Next.js Projects
+---
 
-[BlogApp](https://github.com/LaxmanZ/blogapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp; [TravellerApp](https://github.com/LaxmanZ/travelapp-next-js) &nbsp;&nbsp;&nbsp;&nbsp; [StudentListApp](https://github.com/LaxmanZ/studentlist-next-js)
+## 👨‍💻 About Me
 
-### React Native Projects
+- 💻 Software Engineer focused on web and mobile application development
+- ⚛️ Experienced with React and React Native
+- 🌐 Interested in building scalable and user-friendly applications
+- 🔌 Comfortable working with APIs and backend services
+- 🗄️ Experience with Firebase, Firestore and MongoDB
+- 🚀 Interested in application development, clean UI and practical problem solving
+- 📚 Always learning and improving my engineering skills
 
-[FoodRecipeApp](https://github.com/LaxmanZ/FoodRecipeApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [LaundryApp](https://github.com/LaxmanZ/laundry-app-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [NewsApp](https://github.com/LaxmanZ/NewsApp-react-native) &nbsp;&nbsp;&nbsp;&nbsp; [MyMusicApp](https://github.com/LaxmanZ/MyMusic)
+---
 
+## 🛠️ Tech Stack
 
+### 💻 Languages
 
-## Get in Touch
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,java,cpp,html,css" />
+</p>
 
-- 📧 You can reach me at [laxmanbhajantri547@gmail.com](mailto:laxmanbhajantri547@gmail.com).
-- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/laxman-bhajantri-b781471a4).
+### ⚛️ Frontend
 
-Feel free to explore my GitHub repositories to see more of my work!
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+</p>
 
-Thank You
+### 📱 Mobile Development
 
-If Your are looking to hire a react-native/reactjs developer please contact me. laxmanbhajantri547@gmail.com
+<p>
+  <img src="https://skillicons.dev/icons?i=react,expo" />
+</p>
 
+### 🖥️ Backend & Database
 
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql" />
+</p>
+
+### 🧰 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I've worked on.
+
+### 🛒 E-Commerce Website
+
+A web-based e-commerce application focused on product browsing, shopping functionality and a responsive user experience.
+
+**Tech:** React, JavaScript, HTML, CSS
+
+🔗 [View Repository](https://github.com/LaxmanZ/ecommerce-website)
+
+---
+
+### 📝 Blog Application
+
+A blog application built with Next.js, exploring modern web development concepts and dynamic content.
+
+**Tech:** Next.js, React, JavaScript
+
+🔗 [View Repository](https://github.com/LaxmanZ/next-blog)
+
+---
+
+### 💪 FlexFusion
+
+A fitness-focused web application built to provide an interactive experience around fitness and workout-related content.
+
+**Tech:** React, JavaScript
+
+🔗 [Live Demo](https://gymprojectmugiwara.vercel.app/)
+
+🔗 [View Repository](https://github.com/LaxmanZ/gymproject)
+
+---
+
+### 📚 Book E-Commerce Application
+
+An e-commerce project focused on browsing and purchasing books through a web-based interface.
+
+**Tech:** React, JavaScript
+
+🔗 [View Repository](https://github.com/LaxmanZ/book-ecommerce-reactjs)
+
+---
+
+### 🌐 Personal Portfolio
+
+My personal developer portfolio showcasing my projects, technical skills and professional profile.
+
+**Tech:** React, JavaScript
+
+🌐 [Visit Portfolio](https://laxman-bhajantri-portfolio.vercel.app/)
+
+---
+
+## 📱 React Native Projects
+
+I've also worked on mobile applications using React Native and Expo.
+
+Some of my projects include:
+
+- 🍳 Food Recipe App
+- 🧺 Laundry App
+- 📰 News App
+- 🎵 Music App
+
+🔗 [Explore my React Native repositories](https://github.com/LaxmanZ?tab=repositories)
+
+---
+
+## 🔭 Currently Focused On
+
+- Building better web and mobile applications
+- Improving React and React Native development skills
+- Writing cleaner and more maintainable code
+- Strengthening backend and API development skills
+- Learning modern development tools and workflows
+- Improving problem-solving and software engineering fundamentals
+
+---
+
+## 🧠 Areas of Interest
+
+- Frontend Development
+- Mobile Application Development
+- Full-Stack Development
+- REST APIs
+- Backend Development
+- Database Design
+- Software Architecture
+- Developer Tools
+- Open Source
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LaxmanZ&show_icons=true&hide_border=true&rank_icon=github" alt="Laxman's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaxmanZ&layout=compact&hide_border=true" alt="Laxman's Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LaxmanZ&hide_border=true" alt="Laxman's GitHub Activity Graph" />
+</p>
+
+---
+
+## 📫 Let's Connect
+
+I'm always interested in connecting with developers, engineers and people building interesting products.
+
+<p align="left">
+  <a href="https://laxman-bhajantri-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/laxman-bhajantri-b781471a4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:laxmanbhajantri547@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ Thanks for visiting my profile!
