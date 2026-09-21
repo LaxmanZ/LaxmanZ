@@ -151,20 +151,50 @@ My personal developer portfolio showcasing my projects, technical skills and pro
 
 <td width="50%" valign="top">
 
-### 📱 React Native Projects
+## 📱 React Native Projects
 
-A collection of mobile applications built with React Native and Expo.
+I've also worked on mobile applications using React Native and Expo.
 
-🍳 Food Recipe App
-🧺 Laundry App
-📰 News App
-🎵 Music App
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔗 [Explore Repositories](https://github.com/LaxmanZ?tab=repositories)
+### 🍳 Food Recipe App
+
+A mobile application for discovering and exploring food recipes.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧺 Laundry App
+
+A mobile application focused on laundry-related services and functionality.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📰 News App
+
+A mobile application for browsing and reading news content.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎵 Music App
+
+A mobile application focused on browsing and enjoying music.
 
 </td>
 </tr>
 </table>
+
+🔗 [Explore my React Native repositories](https://github.com/LaxmanZ?tab=repositories)
+
 
 
 ## 🔭 Currently Focused On
